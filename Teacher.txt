@@ -1,0 +1,11 @@
+Teacher ID: C-1001
+First Name: shaheera
+Last Name: malik
+Department: Computer Science
+Username: sm-1
+Password: teacher1
+Registration Date: 2023-12-22
+Gender: f
+Contact No: 123124
+Qualification: SE
+Address: asad

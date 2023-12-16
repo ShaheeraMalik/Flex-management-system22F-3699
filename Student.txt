@@ -1,0 +1,13 @@
+Student ID: Bu1
+First Name: rutaba
+Last Name: imtiaz
+Department: Business
+Username: student1
+Password: pass1
+Registration Date: 2023-12-23
+Gender: f
+Contact No: 13123
+Blood Group: o
+Address: officer
+Fee Status: 12000
+Qualification: SE
